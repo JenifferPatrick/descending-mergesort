@@ -1,4 +1,3 @@
-# reversed-mergesort
 
 # Merge Sort in C# (Descending Order)
 
