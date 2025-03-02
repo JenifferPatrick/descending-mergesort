@@ -1,4 +1,5 @@
-
+# REG NUMBER: EB3/61529/22
+# NAME: JENIFFER MUANGE
 # Merge Sort in C# (Descending Order)
 
 This repository contains a C# implementation of the Merge Sort algorithm to sort an array in **descending order**. The program is optimized to handle large datasets and includes performance measurement using `Stopwatch`.
